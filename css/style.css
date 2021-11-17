@@ -13,6 +13,10 @@ body {
   
 }
 
+ul {
+  list-style-type: none;
+}
+
 #contact {
   z-index: 1000;
 }
