@@ -26,8 +26,16 @@ ul {
 }
 
 /*============= FOOTER =============*/
-
-
+ul{
+  max-width: 15rem;
+  margin: 0 auto ;
+}
+i{
+  size: 2.5rem;
+}
+i:hover{
+  color: red;
+}
 /*===== FIXED BACKGROUND IMG =====*/
 .fixed {
   position: fixed;
